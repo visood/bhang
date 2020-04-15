@@ -1,0 +1,12 @@
+#+TITLE: Graphical introduction to C++
+
+Bjarne Stroustrup (BS) holds that
+#+begin_src:
+Graphics are a very rich source of concrete and practical examples of design
+decisions and design techniques. ...designing classes, designing functions,
+separating software into layers (of abstraction), and constructing libraries...
+#+end_src
+
+
+While we will follow BS's book, we will also follow FLTK examples from around
+the internet.
